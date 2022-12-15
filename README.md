@@ -6,7 +6,7 @@
   
 <h2> :page_facing_up: Certifications:</h2>
 
-- [CompTIA Security+](https://www.youtube.com)
+- [CompTIA Security+](https://github.com/jtags8/CompTIA-Security-Plus)
 
 <h2> 🤳 Connect with me:</h2>
 
