@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab pending](https://github.com/jtags8/LABURL)
+- [Home Lab pending](https://github.com/jtags8/LABURL)
   
 <h2> :page_facing_up: Certifications:</h2>
 
-- [Pending](https://www.youtube.com)
+- [CompTIA Security+](https://www.youtube.com)
 
 <h2>📺 Popular YouTube Videos:</h2>
 
