@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Sentinel Threat Heatmap and SIEM]
+- [Azure Sentinel Threat Heatmap and SIEM](https://github.com/jtags8/Azure-Sentinel-Heatmap)
 - [Home Lab (pending)](https://github.com/jtags8/LABURL)
   
 <h2> :page_facing_up: Certifications:</h2>
